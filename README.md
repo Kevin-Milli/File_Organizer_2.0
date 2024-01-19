@@ -26,7 +26,7 @@ Python 3.x
 
 1. clona la repository:
 ```
-git clone https://github.com/YourUsername/FileOrganizer.git
+git clone https://github.com/Kevin-Milli/FileOrganizer.git
 ```
 2. doppio click sul file .exe per avviare il programma
 
