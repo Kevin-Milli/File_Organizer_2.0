@@ -37,5 +37,3 @@ Kevin Milli
 ## Licenza
 
 Non ho voluto apportare nessuna licenza la progetto.
-
-
